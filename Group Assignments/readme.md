@@ -13,6 +13,8 @@
 
 A preliminary but definitive description of data sources (at least two) that you will use
 
+We plan to use a dataset from USC's Neighborhood Data for Social Change resource on EBT acceptance rates across LA county by census tract. This dataset from 2021 includes geocodes for each census tract, the total population of each tract, how many businesses accept EBT in each tract, and the rate of EBT acceptance in each tract.
+
 Include datasource with links
 A description, accompanied by a visual flow chart that explains the methodology for the intended analysis and resulting visualizations for your project
 A concluding paragraph of what insights you expect to gain from your research
