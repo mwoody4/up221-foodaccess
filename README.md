@@ -37,7 +37,7 @@ From our research, we hope to gain a better understanding of how EBT access is s
 ## References:
 Chang, R., Javed, Z., Taha, M., Yahya, T., Valero-Elizondo, J., Brandt, E. J., ... & Nasir, K. (2022). Food insecurity and cardiovascular disease: Current trends and future directions. American Journal of Preventive Cardiology, 9, 100303.
 
-Food insecurity. Food Insecurity - Healthy People 2030. (n.d.). [https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity#:~:text=Food%20insecurity%20may%20be%20long%20term%20or%20temporary.&text=It%20may%20be%20influenced%20by,race%2Fethnicity%2C%20and%20disability.] 
+Food insecurity. Food Insecurity - Healthy People 2030. (n.d.). [https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity#:~:text=Food%20insecurity%20may%20be%20long%20term%20or%20temporary.&text=It%20may%20be%20influenced%20by,race%2Fethnicity%2C%20and%20disability.](https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity#:~:text=Food%20insecurity%20may%20be%20long%20term%20or%20temporary.&text=It%20may%20be%20influenced%20by,race%2Fethnicity%2C%20and%20disability.) 
 
 Patterns in mortality in Los Angeles County, 2008-2017. Los Angeles County Department of Public Health. Office of Health Assessment and Epidemiology. December 2019.
 
