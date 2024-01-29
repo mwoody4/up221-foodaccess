@@ -19,8 +19,10 @@ An additional dataset we may use is the Food Resources in California dataset fro
 
 [https://map.myneighborhooddata.org/](https://map.myneighborhooddata.org/) - USC Neighborhood Change
 Variable(s): EBT Acceptance Rate in LA County by Census Tract 2021
+
 [https://map.myneighborhooddata.org/](https://map.myneighborhooddata.org/) - USC Neighborhood Change
 Variable(s): Coronary heart disease prevalence in LA County by Census Tract 2020
+
 [https://www.census.gov/programs-surveys/acs/data.html](https://www.census.gov/programs-surveys/acs/data.html) - American Community Survey
 Variables(s): Demographics (race, ethnicity, sex, age) and socioeconomics (income, employment, housing) in LA County by Census Tract 2016-2020
 
